@@ -1,0 +1,2 @@
+#!/bin/bsh
+gcc -E $CFILE -o c
